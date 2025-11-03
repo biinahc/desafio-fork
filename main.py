@@ -10,6 +10,7 @@ Instruções:
 3. Complete as funções abaixo.
 4. Teste o código executando: python calculadora_estatistica.py
 5. Envie um Pull Request com a sua solução.
+sssssssssssssssssssssssss
 
 💡 Dica: não use bibliotecas externas como numpy ou statistics.
 """
